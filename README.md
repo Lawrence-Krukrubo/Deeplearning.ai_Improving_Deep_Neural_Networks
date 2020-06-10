@@ -41,8 +41,8 @@ Activities here include:
 * Numerical approximation of gradients.
 * Gradient checking.
 
-**Notebook Week 1:**
-The first notebook for this week is titled **initialization**. It contains experiments that show the ideal weight initialization techniques to use. 
+**Notebook Week 1:**<br>
+The first notebook for this week is titled **initialization**. It contains experiments that show the ideal weight initialization techniques to use. It's located in the part_1_initialisation folder.
 
 ## License:
 This project and all its materials and docs abide under the MIT License.
